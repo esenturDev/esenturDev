@@ -5,7 +5,7 @@
 - ⚡ Fun fact: ...
 
 
-front end developer
+front end developer!
 
 
 Esentur Ismailov
