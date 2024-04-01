@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 
-
 front end developer
-
 
 Esentur Ismailov
 <!---
