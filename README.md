@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 
-Esentur
+Esentur Ismailov
+
+
 front end developer!
 <!---
 esenturDev/esenturDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
