@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esenturDev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- ⚡ Fun 
+- ⚡ F
 
 Esentur Ismailov
 
