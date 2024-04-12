@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 
 
-Esentur Ismailov!
+Esentur Ismailov
 
 front end developer!
 <!---
