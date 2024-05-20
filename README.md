@@ -4,7 +4,7 @@
 
 Esentur Ismailov
 
-Front end developer!
+Front end developer
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,styledcomponents,redux,react,mui,html,css,vscode,github,figma,scss,git,vite,vercel" alt='my intelek photos'/>
