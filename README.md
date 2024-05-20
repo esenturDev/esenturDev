@@ -14,4 +14,4 @@ esenturDev/esenturDev is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://raw.githubusercontent.com/bimashazaman/Github-snake-SVG/master/snake.svg" alt="photo" />
+<img src="https://raw.githubusercontent.com/bimashazaman/Github-snake-SVG/master/snake.svg" alt="photo is GitHub" />
