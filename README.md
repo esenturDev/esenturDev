@@ -38,13 +38,5 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 
-##
-
 <!-- <a href="https://github.com/Elkhan2003"><img alt="Elcho Effects Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a> -->
-
-<a href="http://www.github.com/esenturDev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=esenturDev&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Commits Graph" /></a>
-
-<div align="center">
-<img width="800px" height=200px src="https://esenturDev.netlify.app/esenturDev-icons/developer.gif"/>
-</div>
