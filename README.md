@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="https://github.com/Elkhan2003"><img alt="Elcho Effects Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a> -->
 
-<a href="http://www.github.com/Elkhan2003"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/esenturDev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=esenturDev&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Commits Graph" /></a>
 
 <div align="center">
 <img width="800px" height=200px src="https://elcho911.netlify.app/Elkhan2003-icons/developer.gif"/>
