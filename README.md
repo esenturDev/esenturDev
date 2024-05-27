@@ -33,4 +33,4 @@ Front end developer!
     </a>
 </p>
 
-<h1 style={{color: 'red'}}>Hello</h1>
+<h1 color="red">Hello</h1>
