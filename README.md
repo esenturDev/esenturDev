@@ -20,11 +20,6 @@ Front end developer!
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
        alt="snake" /></a>
 </div>
-<!---
-esenturDev/esenturDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div style="display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/esenturDev"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=esenturDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
 </a>
@@ -37,6 +32,3 @@ You can click the Preview link to take a look at your changes.
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=esenturDev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
-
-<!-- <a href="https://github.com/Elkhan2003"><img alt="Elcho Effects Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
-</a> -->
