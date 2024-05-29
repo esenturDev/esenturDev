@@ -5,7 +5,7 @@
 Esentur Ismailov
 
 
-Front end developer!
+Front end developer
 
 <div align="center">
   <a href="https://github.com/esenturDev">
