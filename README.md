@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
-Esentur Ismailov
+Esentur Ismailov!
 
 Front end developer
 
