@@ -4,7 +4,6 @@
 
 Esentur Ismailov!
 
-
 Front end developer
 
 
