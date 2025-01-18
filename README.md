@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 
 Esentur Ismailov
-
 Front end developer
 
 <div align="center">
