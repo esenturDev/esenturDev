@@ -11,8 +11,8 @@ Front end developer
 </a>
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vite,nodejs" />
-   <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux,vercel" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vite" />
+   <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux,vercel,nodejs,express" />
 </div>
 <div align="center">
   <a href="https://github.com/esenturDev">
